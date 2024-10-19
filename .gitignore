@@ -17,7 +17,9 @@ eggs/
 lib/
 lib64/
 parts/
+scripts/
 sdist/
+share/
 var/
 wheels/
 share/python-wheels/
